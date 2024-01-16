@@ -1,6 +1,6 @@
 package edu.jsp.employees.model;
 
-public class Employee {
+public class Employee{
 
 	 private int id;
 	  private String name;
